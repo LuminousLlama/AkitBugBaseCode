@@ -1,0 +1,3 @@
+[submodule "AkitBugSubmodule"]
+	path = AkitBugSubmodule
+	url = https://github.com/LuminousLlama/AkitBugSubmodule
