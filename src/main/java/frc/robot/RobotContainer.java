@@ -27,9 +27,6 @@ import org.frcteam2930.common.SubsystemGitSubmodule;
  * subsystems, commands, and button mappings) should be declared here.
  */
 public class RobotContainer {
-
-  private final CommandXboxController controller = new CommandXboxController(0);
-
   SubsystemGitSubmodule sub1 = new SubsystemGitSubmodule();
   SubsystemBaseCode sub2 = new SubsystemBaseCode();
 
